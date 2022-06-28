@@ -6,9 +6,6 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-ul {
-    list-style-type: none; /* ajout balise ul + propriété */
-}
 
 a,
 button {
@@ -665,7 +662,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: rgb(63, 60, 60)!important;
+    color: rgb(0, 0, 0)!important;
 }
 
 .container {
@@ -692,7 +689,7 @@ a {
 }
 
 p {
-    font-size: 16px; /* modif font */
+    font-size: 19px; /* modif font */
 }
 
 .tight-width-whitespace {
@@ -739,11 +736,11 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #000000!important;
 }
 
 h4 {
-    color: #333333!important;
+    color: #000000!important;
 }
 
 .icons {
@@ -752,7 +749,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #000000!important;
     font-weight: 700; /* modif font */
 
 }

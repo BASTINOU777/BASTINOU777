@@ -313,7 +313,7 @@ a:hover {
 }
 
 .navbar-brand img {
-    max-height: 29px; /* modif max-height*/
+    max-height: 42px; /* modif max-height*/
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -1046,8 +1046,8 @@ h4 {
 
 @media (max-width: 400px) {
     .bloc {
-        padding-left: 0;
-        padding-right: 0;
+        padding-left: 5%;
+        padding-right: 5%;
     }
 }
 

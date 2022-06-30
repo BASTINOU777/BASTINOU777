@@ -209,7 +209,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: rgb(229 107 14);
 }
 
 .d-bloc .panel button:hover,
@@ -710,6 +710,9 @@ a {
 p {
     font-size: 19px;
     /* modif font */
+}
+cite {
+    font-size: medium;
 }
 
 .tight-width-whitespace {

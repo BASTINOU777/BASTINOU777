@@ -712,7 +712,9 @@ p {
     /* modif font */
 }
 cite {
-    font-size: medium;
+    font-size: 19px;
+    margin-top: 10px;
+    font-weight: 700;
 }
 
 .tight-width-whitespace {
